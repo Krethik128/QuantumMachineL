@@ -1,0 +1,4 @@
+- [ ] Generate Random Data Points: Create two sets of points, each belonging to one of two classes.
+- [ ] Encode Data into Quantum States: Use a quantum feature map to encode the data points into quantum states.
+- [ ] Train a Quantum Support Vector Classifier (QSVC): Use Pennylane and Qiskit to implement the QSVC.
+- [ ] Visualize the Decision Boundary: Plot the data points and the decision boundary.
